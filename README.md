@@ -1,1 +1,2 @@
 # ETL-Data-Engineering
+This project demonstrates the Extract, Transform and Load (ETL) operations, which are of extreme importance in data analysis. In the process, data from multiple sources and different file formats are extracted and further transformed to predefined settings where it can then be loaded into to a database for further processing. The code for such actions can be found specifically in the etl_code.py and etl_practice.py files within this project.
